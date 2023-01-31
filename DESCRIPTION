@@ -1,0 +1,14 @@
+Package: Rmbleven
+Type: Package
+Title: Rcpp Implementation of mbleven
+Version: 1.0.1
+Author: Dan Van Twisk
+Maintainer: Dan Van Twisk <vantwisk@email.unc.edu>
+Description: A package with a single function that implements a comparison
+  the mbleven algorithm.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 1.0.9)
+LinkingTo: Rcpp
+RoxygenNote: 7.2.3
